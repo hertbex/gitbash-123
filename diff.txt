@@ -1,0 +1,7 @@
+diff --git a/log.txt b/log.txt
+index a07d037..58599f8 100644
+--- a/log.txt
++++ b/log.txt
+@@ -1 +1,2 @@
+ вязьма 5
++вязьма
